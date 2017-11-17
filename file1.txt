@@ -1,0 +1,4 @@
+added new data in file1.txt
+:wq
+
+Again added in file1.txt
